@@ -1,7 +1,7 @@
 # Checkmark Spam
 
 Tired of spamming other YouTubers' comment sections with irrelevant ads for your
-channel? Now there's a better way! Download the marketing spam but trusted by
+channel? Now there's a better way! Download the marketing spam bot trusted by
 world-famous shills like Gus Johnson and Dani! Get thousands of likes without
 even watching the video you're commenting on!
 
