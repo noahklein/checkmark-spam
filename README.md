@@ -6,7 +6,7 @@ world-famous shills like Gus Johnson and Dani! Get thousands of likes without
 even watching the video you're commenting on!
 
 Always land the top comment spot solely based on your fame. Don't waste your
-time composing a funny or thoughtful comment--that's for the filthy peasants!
+time composing a funny or thoughtful comment--that's for the filthy unverified peasants!
 Unlike them you deserve the top spot because you're you!
 
 ![Gus Johnson](gus.png)
