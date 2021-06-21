@@ -35,13 +35,13 @@ func RandLine(r io.Reader) (string, error) {
 	var (
 		scanner = bufio.NewScanner(r)
 		comment string
-		i       int = 1
 	)
-	for scanner.Scan() {
+	for i := 1; scanner.Scan(); i++ {
+		// Each line has a 1/i chance of replacing the comment.
+		// See https://en.wikipedia.org/wiki/Reservoir_sampling.
 		if i == 1 || rand.Intn(i) == 0 {
 			comment = scanner.Text()
 		}
-		i++
 	}
 	if err := scanner.Err(); err != nil {
 		panic(err)
