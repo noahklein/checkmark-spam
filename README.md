@@ -9,6 +9,8 @@ Always land the top comment spot solely based on your fame. Don't waste your
 time composing a funny or thoughtful comment--that's for the filthy peasants!
 Unlike them you deserve the top spot because you're you!
 
+![Gus Johnson](gus.png)
+
 ## Usage
 
 ```bash
