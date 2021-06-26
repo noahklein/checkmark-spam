@@ -19,3 +19,6 @@ $ go run main.go
 
 A random irrelevant comment will be printed to the command line. Just copy and paste it into a comment on a popular
 video, and watch as the unwashed masses flock to your channel.
+
+## See also
+If Checkmarks' entitlement and lack of self-awareness nauseates you, install [die-checkmarks](https://github.com/jbarabander/die-checkmarks).
