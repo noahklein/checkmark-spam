@@ -1,6 +1,6 @@
 # Checkmark Spam
 
-Tired of spamming other YouTubers' comment sections with irrelevant ads for your
+Welcome, YouTube Checkmarks! Tired of spamming other YouTubers' comment sections with irrelevant ads for your
 channel? Now there's a better way! Download the marketing spam bot trusted by
 world-famous shills like Gus Johnson and Dani! Get thousands of likes without
 even watching the video you're commenting on!
@@ -16,3 +16,6 @@ Unlike them you deserve the top spot because you're you!
 ```bash
 $ go run main.go
 ```
+
+A random irrelevant comment will be printed to the command line. Just copy and paste it into a comment on a popular
+video, and watch as the unwashed masses flock to your channel.
